@@ -36,24 +36,24 @@ This dataset contains information on United State flight delays and performance 
 [The version link:](https://public.tableau.com/profile/malak8698#!/vizhome/v2_62/Story1)
 
 ### The final version :
-Changes : 
-Chart1:
+#### Changes: 
+##### Chart1:
     1) Change the minute to hours to make the comparison easier to read and understand.
     2) Change title (Delay over the year in hours).
     3) Mention the note ( Hover on the line to see more details ).
-Chart2:
+##### Chart2:
     1) Change the Average to percentage.
-Chart3:
+##### Chart3:
     1) Change the Average to percentage.
     2) Mention the note ( you can filter the result by using airport name and year).
-Chart4:
+##### Chart4:
     1) Change the Average to percentage.
     2) Mention the note ( you can filter the result by using carrier name and year ) .
-Chart5:
+##### Chart5:
     1) Add description about the airport map.
     2) Mention the note (The bigger point the represent the high total time).
 
-Change in chart 2 and 3 and 4 the axis name ( value ) to appropriate name
+##### Change in chart 2 and 3 and 4 the axis name ( value ) to appropriate name
 
 ### Additions:
     1) Change the story title to project title.
