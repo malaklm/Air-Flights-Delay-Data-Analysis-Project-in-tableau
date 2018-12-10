@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="800" height="800" />
+  <img src="header.png" width="800" height="400" />
 </p>
 
 # Air Flights Delay Data Analysis Project by tableau
@@ -7,7 +7,7 @@
 ## Summary:
 Delay is one of the important problems that affect any transportation systems performance. This project focuses on airplane flights delays and tries to understand what's the factor affect this performance. Delay represented by the difference between actual and scheduled time of departure or arrival of a flight.
 This dataset contains information on United State flight delays and performance comes from RITA. 
-[Source] (https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1)
+[Source](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1)
 
 ## Main findings :
     1. The flight delay time is changed over the year. The maximum percentage comes
@@ -88,7 +88,7 @@ In this stage, I tried to ask many people with differences in educational backgr
 | 3      | PhD Age: 32 Expert on medical data analysis Male                        | -                                                                                                                                                                                                                                                   | Why you use the minute as a scale in the  calculation? Why you used theaverage on the calculation?                                                                                                                                             |  Is the geographical location of the airport affect on the flight delay? What is the quality of the carrier services? is there any improvement of their services over the years?                                                              |
 | 4      | High school Age: 18 No experience of data analysis Male                 | -                                                                                                                                                                                                                                                   |  In chart 4 (causes of delay in the carrier) why there is a carrier delay bar? The x-axis tick title is not clear until hover it He mentions it is difficult to read the chart when the background color is white inside the chart and out it. |  What are the services that carrier provided to the passengers when the flight delay?  What is happening when the delay time is long is the flight canceled or changed to another time?                                                       |
 
-Resources:
+## Resources:
 [transtats.bts.gov](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1 https://www.bts.dot.gov/explore-topics-and-geography/topics/airline-time-performance-and-causes-flight-delays)
 [wikipedia](https://en.wikipedia.org/wiki/Chicago)
 [wikipedia](https://en.wikipedia.org/wiki/Southwest_Airlines)
