@@ -85,6 +85,9 @@ In this stage, I tried to ask many people with differences in educational backgr
 
 Person | General Information | Q1:What do you notice in the visualization? | Q2:Is there something you don’t understand in the graphic? | Q3:If I give you this data what's the first thing you want to know
 ------ | ------------------- | ------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------|
+1 | High school Age:44 No experience of data analysis Female | The delay changed over the year.| The most factor effect on delay is (arrival delay) | What is the size of the points of the map? is this size represent airport size? | Knowing the problem is not enough I want to make a decision about how can we handle this problem. 
+
+2 | Master degree Age:34 Some experience of accounting | What is the security mean? Airplane security (maintenance time) for Airport security? or both? | I want to know what is the worst Airport and investigate the reason of this delay based on the
 
 
 
