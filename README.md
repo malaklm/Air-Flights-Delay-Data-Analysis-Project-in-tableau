@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.png" width="800" height="400" />
+  <img src="header.png" width="800" height="300" />
 </p>
 
 # Air Flights Delay Data Analysis Project by tableau
@@ -74,9 +74,8 @@ Change in chart 2 and 3 and 4 the axis name ( value ) to appropriate name
     2) I chose the red color to represent the flights delayed and canceled because the red color mean the error or worst scenario.
     3) I filtered the Airports and Carrier data color to make it easy to the comparison.
     
-[The version before review link:](https://public.tableau.com/profile/malak8698#!/vizhome/Finalv/AirFlightsDelayDataAnalysisProject)
-
-[The version after review link:]( https://public.tableau.com/profile/malak8698#!/vizhome/Afterreview/AirFlightsDelayDataAnalysisProject)
+    [The version before review link:](https://public.tableau.com/profile/malak8698#!/vizhome/Finalv/AirFlightsDelayDataAnalysisProject)
+    [The version after review link:]( https://public.tableau.com/profile/malak8698#!/vizhome/Afterreview/AirFlightsDelayDataAnalysisProject)
 
 
 ## Feedback:
@@ -90,9 +89,9 @@ In this stage, I tried to ask many people with differences in educational backgr
 | 4      | High school Age: 18 No experience of data analysis Male                 | -                                                                                                                                                                                                                                                   |  In chart 4 (causes of delay in the carrier) why there is a carrier delay bar? The x-axis tick title is not clear until hover it He mentions it is difficult to read the chart when the background color is white inside the chart and out it. |  What are the services that carrier provided to the passengers when the flight delay?  What is happening when the delay time is long is the flight canceled or changed to another time?                                                       |
 
 ## Resources:
-[transtats.bts.gov](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1)
-[transtats.bts.gov](https://www.bts.dot.gov/explore-topics-and-geography/topics/airline-time-performance-and-causes-flight-delays)
-[wikipedia](https://en.wikipedia.org/wiki/Chicago)
-[wikipedia](https://en.wikipedia.org/wiki/Southwest_Airlines)
+    [transtats.bts.gov](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp?pn=1)
+    [transtats.bts.gov](https://www.bts.dot.gov/explore-topics-and-geography/topics/airline-time-performance-and-causes-flight-delays)
+    [wikipedia](https://en.wikipedia.org/wiki/Chicago)
+    [wikipedia](https://en.wikipedia.org/wiki/Southwest_Airlines)
 
 
